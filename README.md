@@ -11,3 +11,9 @@ It includes:
 - South African cellphone number validation
 - User login
 - JUnit test classes
+
+##Technologies Used
+- Java
+- Apache NetBeans
+- JUnit 5
+- GitHub
