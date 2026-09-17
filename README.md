@@ -25,3 +25,7 @@ It includes:
 - RegistrationTest.java tests the registration functionality.
 - LoginTest.java tests the login functionality.
 
+## Author
+Amukelani Moloi
+
+
