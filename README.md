@@ -22,6 +22,6 @@ It includes:
 - Registration.java handles your registration and validation.
 - Login.java handles user login.
 - POEPart1.java runs the console application.
-- TegistrationTest.java tests the registration functionality.
+- RegistrationTest.java tests the registration functionality.
 - LoginTest.java tests the login functionality.
 
